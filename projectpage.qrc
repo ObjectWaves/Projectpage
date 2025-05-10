@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>layout.png</file>
+        <file>unnamed.png</file>
+        <file>quickstart.png</file>
+    </qresource>
+</RCC>
